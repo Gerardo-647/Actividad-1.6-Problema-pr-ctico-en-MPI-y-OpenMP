@@ -1,0 +1,4 @@
+[Equipo: LAPTOP-14AVVQMU] [Nodo MPI: 1] [Rango Asignado: 0 - 15672832818] [Estado: Iniciado]
+[EXITO] [Equipo: LAPTOP-14AVVQMU] [Nodo MPI: 1] [Hilo OpenMP: 0] [Clave Encontrada: "ABC1234"] [Tiempo Parcial: 2.21161s]
+[Finalizado] Proceso esclavo completado y finalizado limpiamente.
+[Finalizado] Salida limpia del programa.

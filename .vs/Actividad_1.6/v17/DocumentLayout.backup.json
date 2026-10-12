@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MPI_Proyectos\\Actividad_1.6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB25D46-90D7-44C0-A426-6664FEB696B2}|Actividad_1.6\\Actividad_1.6.vcxproj|C:\\MPI_Proyectos\\Actividad_1.6\\Actividad_1.6\\Actividad_1.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAB25D46-90D7-44C0-A426-6664FEB696B2}|Actividad_1.6\\Actividad_1.6.vcxproj|solutionrelative:Actividad_1.6\\Actividad_1.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actividad_1.6.cpp",
+              "DocumentMoniker": "C:\\MPI_Proyectos\\Actividad_1.6\\Actividad_1.6\\Actividad_1.6.cpp",
+              "RelativeDocumentMoniker": "Actividad_1.6\\Actividad_1.6.cpp",
+              "ToolTip": "C:\\MPI_Proyectos\\Actividad_1.6\\Actividad_1.6\\Actividad_1.6.cpp",
+              "RelativeToolTip": "Actividad_1.6\\Actividad_1.6.cpp",
+              "ViewState": "AgIAACUBAAAAAAAAAAAkwEMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-12T04:32:34.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

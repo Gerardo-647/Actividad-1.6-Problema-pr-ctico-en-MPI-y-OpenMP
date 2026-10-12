@@ -1,0 +1,3 @@
+[Equipo: LAPTOP-14AVVQMU] [Nodo MPI: 2] [Rango Asignado: 15672832819 - 31345665637] [Estado: Iniciado]
+[Finalizado] Proceso esclavo completado y finalizado limpiamente.
+[Finalizado] Salida limpia del programa.

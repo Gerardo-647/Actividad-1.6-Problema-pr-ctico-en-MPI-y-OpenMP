@@ -1,0 +1,4 @@
+[Equipo: LAPTOP-14AVVQMU] [Nodo Maestro] [Iniciando coordinacion paralela]
+[EXITO] [Equipo: LAPTOP-14AVVQMU] [Nodo Maestro] [Clave Encontrada: "ABC1234"] [Tiempo Total: 2.21404s]
+[Finalizado] Coordinacion maestra completada.
+[Finalizado] Salida limpia del programa.

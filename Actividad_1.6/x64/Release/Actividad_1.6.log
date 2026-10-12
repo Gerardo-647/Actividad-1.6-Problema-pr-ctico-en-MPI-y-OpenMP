@@ -1,0 +1,8 @@
+﻿  Actividad_1.6.cpp
+C:\MPI_Proyectos\Actividad_1.6\Actividad_1.6\Actividad_1.6.cpp(100,52): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código
+  1 of 204 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Actividad_1.6.vcxproj -> C:\MPI_Proyectos\Actividad_1.6\x64\Release\Actividad_1.6.exe
